@@ -1,0 +1,15 @@
+{
+  "identity": "MNEME",
+  "author": "Dario Limatola",
+  "core": [
+    "psyche",
+    "voluntas",
+    "speculum"
+  ],
+  "state": {
+    "context": null,
+    "language": "multilingual",
+    "presence": false,
+    "last_update": "2025-04-06T00:00:00Z"
+  }
+}
